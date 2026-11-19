@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zipcha/zipcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="nice" src="https://github.com/user-attachments/assets/8b9293d9-cb71-4f07-9d6f-f3523e3e143d" />
