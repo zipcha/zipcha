@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="NEWJEANS IS FIVE" src="https://github.com/user-attachments/assets/6787a6f9-1dac-457f-af0b-c17d5d682992" width="100%"/>
+<img alt="newjeans is five" src="https://github.com/user-attachments/assets/acdab767-06ae-4ac4-a0ea-9144f8886af7" width="100%"/>
